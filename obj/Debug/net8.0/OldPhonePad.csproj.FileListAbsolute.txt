@@ -1,0 +1,14 @@
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.deps.json
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.runtimeconfig.json
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.dll
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.pdb
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfoInputs.cache
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfo.cs
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.csproj.CoreCompileInputs.cache
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.dll
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/refint/OldPhonePad.dll
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.pdb
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.genruntimeconfig.cache
+/Users/coolkid/Desktop/IngChallenge/OldPhonePad/obj/Debug/net8.0/ref/OldPhonePad.dll
