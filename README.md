@@ -25,7 +25,7 @@ var keyMap = new Dictionary<char, string>
     {'8', "TUV"},
     {'9', "WXYZ"}
 };
-```csharp
+```
 
 This means:
 
@@ -57,7 +57,7 @@ if (ch == lastKey) {
     lastKey = ch;  // Reset for the new key.
     keyPressCount = 1;
 }
-```csharp
+```
 ## 4. Final Output
 Once the program has processed the input, it adds the final letter to the message and outputs the result.
 
