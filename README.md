@@ -41,8 +41,9 @@ The program reads each character in the input, one at a time. If it encounters c
 - Space (` `): Finalizes the current letter and prepares for the next one.
 
 ## 3. Handling Repeated Key Presses
-To determine which letter to use, the program counts how many times a key is pressed. For example:
+To determine which letter to use, the program counts how many times a key is pressed. 
 
+For example:
 - Pressing `2` once will give you `A`.
 - Pressing `2` twice will give you `B`.
 - Pressing it three times will give you `C`.
