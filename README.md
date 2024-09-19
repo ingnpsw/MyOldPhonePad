@@ -61,7 +61,7 @@ if (ch == lastKey) {
 ## 4. Final Output
 Once the program has processed the input, it adds the final letter to the message and outputs the result.
 
-Example Inputs and Outputs
+### Example Inputs and Outputs
 Input: `"33#"` → Output: `E`
 
 Input: `"227*#"` → Output: `B` (backspace removes the previous letter)
@@ -69,3 +69,11 @@ Input: `"227*#"` → Output: `B` (backspace removes the previous letter)
 Input: `"4433555 555666#"` → Output: `HELLO`
 
 Input: `"8 88777444666*664#"` → Output: `TOURING`
+
+## Why I Wrote the Code This Way
+As someone who primarily focuses on managing infrastructure and automating platforms like OpenShift, my goal is to demonstrate logical problem-solving. In my day-to-day work, I manage pipelines, deploy applications, and ensure systems run efficiently. However, my goal is to move more into DevOps, where I can use my infrastructure skills alongside development tasks, like this coding challenge.
+This project shows my ability to:
+
+- Understand complex problems (like simulating old phone behavior).
+- Break down tasks logically.
+- Work with code, even though my primary role isn’t in development.
