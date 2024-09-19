@@ -63,5 +63,9 @@ Once the program has processed the input, it adds the final letter to the messag
 
 Example Inputs and Outputs
 Input: `"33#"` → Output: `E`
+
 Input: `"227*#"` → Output: `B` (backspace removes the previous letter)
+
 Input: `"4433555 555666#"` → Output: `HELLO`
+
+Input: `"8 88777444666*664#"` → Output: `TOURING`
